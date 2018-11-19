@@ -16,5 +16,12 @@ negative words in a sentence is equal, we will classify that sentence as neutral
 I'm going to be using and importing data from 3 files.
 
 thehoundofthebaskervilles.txt
+
+
+
 positivesentimentwords.txt
+
+
+
+
 negativesentimentwords.txt
