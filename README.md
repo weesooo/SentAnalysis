@@ -1,7 +1,4 @@
-# SentAnalysis
-#Wisam Ali
-#11/19/2018
-"""
+
 Sentiment Analysis - Python
 
 We want to analyze the sentiment of the text on the sentence level. That is, we want to classify each sentence in this text as having either positive, neutral, or negative sentiment. The following three sentences illustrate each sentiment type. For example, 
@@ -20,5 +17,4 @@ I'm going to be using and importing data from 3 files.
 
 thehoundofthebaskervilles.txt
 positivesentimentwords.txt
-negativesentimentwords.txt'
-"""
+negativesentimentwords.txt
